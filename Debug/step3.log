@@ -1,0 +1,5 @@
+﻿  OpenGL Ex 1.cpp
+C:\Users\Legion\Desktop\step3\OpenGL Ex 1.cpp(54,10): warning C4101: “j”: 未引用的局部变量
+C:\Users\Legion\Desktop\step3\OpenGL Ex 1.cpp(54,7): warning C4101: “i”: 未引用的局部变量
+C:\Users\Legion\Desktop\step3\OpenGL Ex 1.cpp(121,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  step3.vcxproj -> C:\Users\Legion\Desktop\step3\Debug\step3.exe
